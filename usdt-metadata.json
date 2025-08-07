@@ -1,0 +1,14 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "USDT estable 1:1 con USD. Versi\u00f3n personalizada basada en OpenZeppelin.",
+  "decimals": 6,
+  "image": "https://tether.to/images/logo.png",
+  "website": "https://tether.to/",
+  "attributes": {
+    "max_supply": 10000000,
+    "blockchain": "Ethereum",
+    "oracle": "Chainlink",
+    "oracle_feed": "0x8fFfFfd4afB6115b954bD326cBe7B4E53266b638"
+  }
+}
